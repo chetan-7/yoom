@@ -1,1 +1,0 @@
-useRouter from next/navigation is used for routing application on specific endpoint.
